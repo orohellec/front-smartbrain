@@ -5,7 +5,11 @@
   "dependencies": {
     "react": "^16.8.4",
     "react-dom": "^16.8.4",
-    "react-scripts": "2.1.8"
+    "react-particles-js": "^2.5.1",
+    "react-scripts": "2.1.8",
+    "react-tilt": "^0.1.4",
+    "tachyons": "^4.10.0",
+    "typescript": "^3.3.4000"
   },
   "scripts": {
     "start": "react-scripts start",
